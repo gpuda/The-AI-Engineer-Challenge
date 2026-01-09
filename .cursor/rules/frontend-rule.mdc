@@ -11,3 +11,14 @@ alwaysApply: false
 - You should use Next.js as it works best with Vercel. 
 - This frontend will ultimately be deployed on Vercel, but it should be possible to test locally. 
 - Always provide users with a way to run the created UI once you have created it.
+
+### Theme & Vibe Preferences
+
+- Visual style: calm, minimal, outdoors / hiking inspired.
+- Primary accent color: magenta (#E20074).
+- Secondary accent color: forest green (#2E7D32).
+- Background: very light gray (#F7F7F9).
+- Cards and content areas: white with soft shadow.
+- Layout should feel breathable with generous spacing.
+- UI should be simple: text input, send button, and response area.
+- Copy tone: friendly, supportive, and encouraging.
